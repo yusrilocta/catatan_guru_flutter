@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next_class_widget_desc">Kelas berikutnya — Guru Asisten</string>
+    <string name="next_class_badge">Kelas Berikutnya</string>
+    <string name="task_stack_widget_desc">Tumpukan tugas terdekat — Guru Asisten</string>
+    <string name="task_stack_title">Tugas Terdekat</string>
+    <string name="task_stack_hint">Geser atas / bawah untuk tugas lain</string>
+</resources>
